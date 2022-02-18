@@ -14,7 +14,7 @@ dependencies:
   flutter_map:
     git:
       url: https://github.com/fleaflet/flutter_map.git
-  flutter_compass: ^0.6.0
+  flutter_compass: ^0.7.0
 
 dev_dependencies:
   flutter_test:
